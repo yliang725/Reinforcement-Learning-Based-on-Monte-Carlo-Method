@@ -12,6 +12,6 @@ major parameters:
   
 After 500000 episodes, the results show that none-slippery FrozenLake8x8 scored 0.9794 and slippery FrozenLake8x8 scored 0.3113.  
 
-The Jupyter notebook was compiled on Anaconda and Python 3.8 environment.  
+File was compiled on Anaconda Jupyter Notebook and Python 3.8 environment.  
 
 https://gym.openai.com/envs/FrozenLake-v0/  
