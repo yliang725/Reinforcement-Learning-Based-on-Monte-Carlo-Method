@@ -1,6 +1,7 @@
 # Reinforcement Learning Based on Monte Carlo Method (gym API FrozenLake8x8-v0)  
 
 This program is to solve the FrozenLake8x8 with the MC control method.  
+
 In this program, On-policy First Visit Monte Carlo Control was implemented on both none-slippery and slippery FrozenLake8x8.  
   
 major parameters:  
